@@ -8,6 +8,7 @@ I am constantly seeking new challenges and opportunities to further my expertise
 
 ---
 
+# MY SKILLS
 ![My Skills](https://skillicons.dev/icons?i=css,js,ts,react,nodejs,solidity,ipfs,electron,java,php,firebase,materialui,mongodb,mysql,postman&perline=16 )
 
 You can connect with me on [LinkedIn](https://linkedin.com/in/harismehar).
