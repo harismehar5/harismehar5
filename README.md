@@ -1,16 +1,13 @@
-### Hi there 👋
+# Haris Mehar - Blockchain Developer 
 
-<!--
-**harismehar5/harismehar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Haris Mehar, a blockchain developer with a passion for creating decentralized applications. With a diverse skill set including React JS, Node JS, Express JS, React Native, Solidity, Truffle, and Hardhat, I am able to bring blockchain solutions to life. 
 
-Here are some ideas to get you started:
+I have extensive experience in developing decentralized applications (dApps), decentralized finance (DeFi), and decentralized autonomous organizations (DAO), giving me a deep understanding of blockchain technology and its potential. My experience in developing web applications and mobile applications allows me to create seamless user experiences. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am constantly seeking new challenges and opportunities to further my expertise in the blockchain space and deliver innovative solutions. Let's build something great together!
+
+---
+
+![My Skills](https://skillicons.dev/icons?i=css,js,ts,react,nodejs,solidity,ipfs,electron,java,php,firebase,materialui,mongodb,mysql,postman&perline=16 )
+
+You can connect with me on [LinkedIn](https://linkedin.com/in/harismehar).
