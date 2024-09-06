@@ -1,11 +1,8 @@
-# Haris Mehar - Blockchain Developer 
+# Haris Mehar - Senior Software Engineer 
 
-I am Haris Mehar, a blockchain developer with a passion for creating decentralized applications. With a diverse skill set including React JS, Node JS, Express JS, React Native, Solidity, Truffle, and Hardhat, I am able to bring blockchain solutions to life. 
+Hi there! I'm a dynamic MERN stack developer with 5+ years of experience. My expertise spans native Android, React, Node.js, Express, Next.js, React Native, and Solidity. I love simplifying complex tech challenges and building user-centric web and mobile solutions.
 
-I have extensive experience in developing decentralized applications (dApps), decentralized finance (DeFi), and decentralized autonomous organizations (DAO), giving me a deep understanding of blockchain technology and its potential. My experience in developing web applications and mobile applications allows me to create seamless user experiences. 
-
-I am constantly seeking new challenges and opportunities to further my expertise in the blockchain space and deliver innovative solutions. Let's build something great together!
-
+🚀 Passionate about innovation, I enjoy crafting seamless UIs, developing robust back-ends, and delivering advanced solutions that push boundaries. Let’s collaborate to create something amazing!
 ---
 
 # MY SKILLS
