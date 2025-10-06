@@ -22,4 +22,4 @@
 # MY SKILLS
 ![My Skills](https://skillicons.dev/icons?i=css,js,ts,react,nodejs,express,nestjs,nextjs,firebase,materialui,mongodb,vercel,mysql,postman,vscode&perline=16 )
 
-You can connect with me on [LinkedIn](https://linkedin.com/in/harismehar).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/haris-mehar-software-engineer).
